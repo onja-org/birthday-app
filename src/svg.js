@@ -1,3 +1,5 @@
+// small file to hold any of our svgs... TODO, put them into their own svg file.
+
 export const editSVG = `<svg
 class="w-6 h-6"
 fill="none"
